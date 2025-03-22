@@ -1,0 +1,37 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background: #52c9f5c0;
+            padding: 20px;
+            display: inline-block;
+        }
+        h1 {
+            color: rgb(17, 17, 231);
+        }
+        .price {
+            color:black;
+            font-size: 15px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .price span{
+            color:red;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+
+        }
+        .buy-button {
+            background-color: orange;
+            color: white;
+            padding: 5px 10px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .buy-button:hover {
+            background-color: darkorange;
+        }
